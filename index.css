@@ -33,7 +33,7 @@
     --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
     --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
     --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
-    --deprecated-text-input-border-hover: #050505;
-    --deprecated-text-input-border-disabled: #050505;
-    --deprecated-text-input-prefix: #050505
+    --deprecated-text-input-border-hover: #FFFFFF;
+    --deprecated-text-input-border-disabled: #FFFFFF;
+    --deprecated-text-input-prefix: #FFFFFF
 }
