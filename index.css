@@ -3,9 +3,9 @@
 :root {
     --header-primary: #050505;
     --header-secondary: #050505;
-    --text-normal: #050505;
-    --text-muted: #050505;
-    --text-link: #050505;
+    --text-normal: #FFFFFF;
+    --text-muted: #FFFFFF;
+    --text-link: #FFFFFF;
     --channels-default: #050505;
     --interactive-normal: #050505;
     --interactive-hover: #050505;
